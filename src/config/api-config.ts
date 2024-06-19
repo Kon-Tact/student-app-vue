@@ -1,4 +1,6 @@
-const apiBase = 'https://192.168.55.208:8080';
+//const apiBase = 'https://192.168.55.208:8080';
+//const apiBase = 'https://my-spring-boot-app:8080';
+const apiBase = 'https://localhost/api';
 
 const API_ENDPOINTS = {
     studentList: `${apiBase}/student/list`,
